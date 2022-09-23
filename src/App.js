@@ -21,6 +21,7 @@ export default function App() {
     <Header>
       <h1>Oi pessoal!!!!!</h1>
       <p>OOOOOOIII</p>
+      <h2>Bom final de semana, pessoal!</h2>
     </Header>
   )
 }
